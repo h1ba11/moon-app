@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Moon" language="en" table="x_176584_moon_app_moon">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Moon</label>
+            <language>en</language>
+            <name>x_176584_moon_app_moon</name>
+            <plural>Moons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-24 07:22:08</sys_created_on>
+            <sys_id>1e84c65b87a7011091dbfcc7cebb35ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Moon</sys_name>
+            <sys_package display_value="Moon App" source="x_176584_moon_app">2b2c39d387a7011091dbfcc7cebb35a2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Moon App">2b2c39d387a7011091dbfcc7cebb35a2</sys_scope>
+            <sys_update_name>sys_documentation_x_176584_moon_app_moon__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-24 07:22:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

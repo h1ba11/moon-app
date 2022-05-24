@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Moon App_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-24 07:26:04</sys_created_on>
+        <sys_id>88758a9b87a7011091dbfcc7cebb3516</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Moon App_menu_config</sys_name>
+        <sys_package display_value="Moon App" source="x_176584_moon_app">2b2c39d387a7011091dbfcc7cebb35a2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Moon App">2b2c39d387a7011091dbfcc7cebb35a2</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_88758a9b87a7011091dbfcc7cebb3516</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-24 07:26:04</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>
